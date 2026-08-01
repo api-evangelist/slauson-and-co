@@ -1,8 +1,27 @@
 aid: slauson-and-co
 name: Slauson & Co.
-description: 'Slauson & Co. is a company surfaced as a portfolio company of foundry-group and added to
-  the API Evangelist network as a stub for enrichment. Sector: venture-capital. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Slauson & Co. is an early-stage venture capital firm based in Los Angeles,
+  founded in 2020 by Austin Clements and Ajay Relan and named for the South LA avenue
+  where the two first met. Rooted in economic inclusion, the firm invests at the pre-seed
+  and seed stage in SMB software tools for the next generation of small-business owners
+  and in culturally relevant consumer products and services, backing founders who have
+  historically been overlooked by traditional venture capital. Slauson & Co. has raised
+  a $100M Fund II — backed by tech companies including Google, Meta and PayPal — and
+  runs the Friends & Family accelerator that pairs non-dilutive grants with hands-on
+  programming. Portfolio companies include Sienna Naturals, Pressed Roots, A-Frame Brands,
+  Charger Help, Bags and Prado.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://static1.squarespace.com/static/5fdba5a187214e686bd2acf2/t/61020802478e4578d602da08/1611884155423/SlausonCo-Logo-SqFull.png?format=1500w
 url: https://raw.githubusercontent.com/api-evangelist/slauson-and-co/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +31,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Venture Capital
+- Early Stage
+- Seed
+- Pre-Seed
+- Economic Inclusion
+- Los Angeles
+- SMB Software
+- Consumer Tech
+- Accelerator
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,20 @@ maintainers:
 common:
 - type: Website
   url: https://www.slauson.co
+- type: About
+  url: https://slauson.co/home/#our-story
+- type: Portfolio
+  url: https://slauson.co/home/#portfolio
+- type: LinkedIn
+  url: https://www.linkedin.com/company/slausonandco/
+- type: Instagram
+  url: https://www.instagram.com/slausonandco/
+- type: YouTube
+  url: https://www.youtube.com/channel/UCil3you9RhttXVLVyKY_5fw
+- type: DomainSecurity
+  url: security/slauson-and-co-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
