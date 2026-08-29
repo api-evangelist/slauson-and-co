@@ -10,6 +10,17 @@ description: 'Slauson & Co. is an early-stage venture capital firm based in Los 
   runs the Friends & Family accelerator that pairs non-dilutive grants with hands-on
   programming. Portfolio companies include Sienna Naturals, Pressed Roots, A-Frame Brands,
   Charger Help, Bags and Prado.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
