@@ -51,7 +51,16 @@ tags:
 - Pre-Seed
 - Economic Inclusion
 - Los Angeles
-- SMB Software
+- Consumer Tech
+- Accelerator
+tags_raw:
+- Company
+- Venture Capital
+- Early Stage
+- Seed
+- Pre-Seed
+- Economic Inclusion
+- Los Angeles
 - Consumer Tech
 - Accelerator
 apis: []
@@ -80,3 +89,5 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-tags-removed:
+- Small Business
